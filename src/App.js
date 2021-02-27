@@ -1,5 +1,5 @@
 import {lazy, Suspense} from 'react';
-
+import Render from './Render';
 /* Importação comum
 import Header from './components/Header';
 import Main from './components/Main';
@@ -26,6 +26,8 @@ function App() {
         <Suspense fallback={ <h2>Aguarde enquanto carrega o Footer</h2> }>
           <Footer />
         </Suspense>
+
+        <Render ano="2021"/> 
     </div>
   );
 }

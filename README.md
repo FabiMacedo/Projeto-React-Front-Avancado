@@ -1,4 +1,4 @@
-# Projeto React Front Avançado solicitado pela Recode utilizando o Code Splitting e Lazy Loading.
+# Projeto React Back Avançado solicitado pela Recode utilizando SSR.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
